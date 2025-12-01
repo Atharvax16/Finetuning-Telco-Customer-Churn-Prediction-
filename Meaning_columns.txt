@@ -1,0 +1,20 @@
+CustId --> unique identifier
+gender
+seniorcitizen 
+partner
+deppendants
+tenure
+phoneservice --> whether the customer has a phone line with the company 
+multiplelines -->customer has more than one phone number
+interent services -->
+online security
+online backup
+device prediction
+techsupport
+streamingTv
+streamingMovies
+contract --> types of contract
+paperlessbilling --> whether the customer uses paperless billing
+paymentMethod 
+monthlycharges --> currect monthly amount charged to the customer including all subscribed services as a numeric value
+totalcharges -->total amount billed to the customer over the entire tenure so far
